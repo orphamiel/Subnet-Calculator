@@ -1,0 +1,14 @@
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\bin\Debug\Subnet Calc.exe.config
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\bin\Debug\Subnet Calc.exe
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\bin\Debug\Subnet Calc.pdb
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet_Calc.Form1.resources
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet_Calc.Properties.Resources.resources
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet Calc.csproj.GenerateResource.Cache
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet Calc.exe
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet Calc.pdb
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet Calc.csprojResolveAssemblyReference.cache
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\bin\Debug\Subnet Calc.exe.manifest
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\bin\Debug\Subnet Calc.application
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet Calc.TrustInfo.xml
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet Calc.exe.manifest
+Z:\Projects\Visual Studio 2012\Projects\Subnet Calc\Subnet Calc\obj\Debug\Subnet Calc.application
